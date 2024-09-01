@@ -1,0 +1,14 @@
+langchain-openai
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-huggingface
+chromadb
+streamlit
+protobuf==3.20.*
+requests
+unstructured
+langchain-text-splitters
+torch==2.4.0
+python-dotenv
